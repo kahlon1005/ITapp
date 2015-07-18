@@ -1,0 +1,4 @@
+.netbeans_automatic_build
+com\mycompany\simpleweb\entities\AuditLog_.class
+com\mycompany\simpleweb\entities\AuditLog.class
+com\mycompany\simpleweb\service\AuditLogService.class
